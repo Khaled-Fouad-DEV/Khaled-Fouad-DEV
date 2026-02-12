@@ -83,11 +83,11 @@ I am a **Mid-Level Full Stack Developer** based in **Egypt** with 3+ years of ex
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khaled-Fouad-DEV&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khaled-Fouad-DEV&theme=radical&hide_border=true&show_icons=true" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Khaled-Fouad-DEV&theme=radical&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-Fouad-DEV&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-Fouad-DEV&theme=radical&hide_border=true&layout=compact" />
 </div>
 
 <div align="center">
