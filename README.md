@@ -1,85 +1,18 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bf72&height=280&section=header&text=Khaled%20Fouad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Vue%20&%20React%20Specialist&descAlignY=51&descAlign=62" />
-  
-  <h3>Building scalable, high-performance web applications with modern architecture.</h3>
-  
-  <p>
-    <a href="mailto:khaled.fouadv9@gmail.com">
-      <img src="https://img.shields.io/badge/Email-khaled.fouadv9%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/khaled-fouad-96a981285/">
-      <img src="https://img.shields.io/badge/LinkedIn-Khaled%20Fouad-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://locallyeg.com/">
-      <img src="https://img.shields.io/badge/Portfolio-locallyeg.com-00bf72?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
-    </a>
-  </p>
-</div>
+# 💫 About Me:
+<div align="center"><br>  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bf72&height=280&section=header&text=Khaled%20Fouad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Vue%20&%20React%20Specialist&descAlignY=51&descAlign=62" /><br>  <br>  <h3>Building scalable, high-performance web applications with modern architecture.</h3><br>  <br>  <p><br>    <a href="mailto:khaled.fouadv9@gmail.com"><br>      <img src="https://img.shields.io/badge/Email-khaled.fouadv9%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /><br>    </a><br>    <a href="https://www.linkedin.com/in/khaled-fouad-96a981285/"><br>      <img src="https://img.shields.io/badge/LinkedIn-Khaled%20Fouad-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /><br>    </a><br>    <a href="https://locallyeg.com/"><br>      <img src="https://img.shields.io/badge/Portfolio-locallyeg.com-00bf72?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /><br>    </a><br>  </p><br></div><br><br>---<br><br>### 👨‍💻 About Me<br><br>I am a **Mid-Level Full Stack Developer** based in **Egypt** with 3+ years of experience. I specialize in building complex, data-driven applications using **Vue.js, React, and Node.js**. My passion lies in solving business problems through clean architecture—whether that's optimizing e-commerce performance or architecting real-time enterprise scheduling systems.<br><br>* 🎓 **B.Sc. in Computer Science** (Very Good with Honors) - Port Said University.<br>* 🏆 **ITI Scholarship Graduate** - First place in group for technical excellence.<br>* 💼 Currently working at **Insuretekk** as a Full Stack Developer.<br><br>---<br><br>### 🛠️ Tech Stack<br><br><div align="left"><br>  <br>**Languages** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><br><br>**Frontend** <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /><br><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /><br><img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white" /><br><img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" /><br><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /><br><br>**Backend & Database** <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /><br><br></div><br><br>---<br><br>### 🚀 Featured Projects<br><br>| Project | Description | Stack |<br>| :--- | :--- | :--- |<br>| **[Locally E-Commerce](https://locallyeg.com/)** | **Modern bilingual shopping platform.** <br> Features lazy loading, Pinia state management, and optimized performance for a seamless Arabic/English experience. | `Vue.js` `Nuxt` `Tailwind` |<br>| **[Course Finisher](https://course-finisher.vercel.app/)** | **Distraction-free study app.** <br> Full-stack mobile app integrating YouTube API for in-app learning. Features offline tracking and "skip-day" push notifications via Firebase. | `Ionic` `Angular` `Node.js` |<br>| **[Enterprise Scheduler](https://github.com/youssefhemdan217/FMRB_Dev)** | **Complex room booking system.** <br> Solves double-booking issues with a reactive timeline calendar and admin controls for large facility management. | `React` `MySQL` `Redux` |<br>| **[Docs Reader](https://docs-reader.vercel.app/)** | **Markdown-to-Site Engine.** <br> Transforms raw MD files into a searchable, documentation website similar to Docker Docs. | `React` `Docusaurus` |<br><br>---<br><br>### 💼 Experience<br><br>* **Mid-Level Full Stack Developer** @ [Insuretekk](https://insuretekk.com) _(Present)_<br>    * Building scalable insurance applications using Angular, Ionic, and Node.js.<br>    * Mentoring junior developers and conducting code reviews.<br><br>* **Front-End Developer** @ Teleoceans _(2025)_<br>    * Led frontend development using Vue.js and Nuxt.js.<br>    * Implemented efficient design systems with TailwindCSS.<br><br>* **Freelance Developer** _(2024 - Present)_<br>    * Delivered full-stack solutions using Next.js and MERN stack for diverse clients.<br><br>---<br><br><div align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=Khaled-Fouad-DEV&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Khaled's Stats" /><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-Fouad-DEV&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Khaled's Top Languages" /><br></div>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khaled-fouad-96a981285/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khaled.fouadv9@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Khaled-Fouad-DEV&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Khaled-Fouad-DEV&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-Fouad-DEV&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Khaled-Fouad-DEV&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 👨‍💻 About Me
-
-I am a **Mid-Level Full Stack Developer** based in **Egypt** with 3+ years of experience. I specialize in building complex, data-driven applications using **Vue.js, React, and Node.js**. My passion lies in solving business problems through clean architecture—whether that's optimizing e-commerce performance or architecting real-time enterprise scheduling systems.
-
-* 🎓 **B.Sc. in Computer Science** (Very Good with Honors) - Port Said University.
-* 🏆 **ITI Scholarship Graduate** - First place in group for technical excellence.
-* 💼 Currently working at **Insuretekk** as a Full Stack Developer.
-
----
-
-### 🛠️ Tech Stack
-
-<div align="left">
-  
-**Languages** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
-**Frontend** <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-
-**Backend & Database** <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Locally E-Commerce](https://locallyeg.com/)** | **Modern bilingual shopping platform.** <br> Features lazy loading, Pinia state management, and optimized performance for a seamless Arabic/English experience. | `Vue.js` `Nuxt` `Tailwind` |
-| **[Course Finisher](https://course-finisher.vercel.app/)** | **Distraction-free study app.** <br> Full-stack mobile app integrating YouTube API for in-app learning. Features offline tracking and "skip-day" push notifications via Firebase. | `Ionic` `Angular` `Node.js` |
-| **[Enterprise Scheduler](https://github.com/youssefhemdan217/FMRB_Dev)** | **Complex room booking system.** <br> Solves double-booking issues with a reactive timeline calendar and admin controls for large facility management. | `React` `MySQL` `Redux` |
-| **[Docs Reader](https://docs-reader.vercel.app/)** | **Markdown-to-Site Engine.** <br> Transforms raw MD files into a searchable, documentation website similar to Docker Docs. | `React` `Docusaurus` |
-
----
-
-### 💼 Experience
-
-* **Mid-Level Full Stack Developer** @ [Insuretekk](https://insuretekk.com) _(Present)_
-    * Building scalable insurance applications using Angular, Ionic, and Node.js.
-    * Mentoring junior developers and conducting code reviews.
-
-* **Front-End Developer** @ Teleoceans _(2025)_
-    * Led frontend development using Vue.js and Nuxt.js.
-    * Implemented efficient design systems with TailwindCSS.
-
-* **Freelance Developer** _(2024 - Present)_
-    * Delivered full-stack solutions using Next.js and MERN stack for diverse clients.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khaled-Fouad-DEV&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Khaled's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-Fouad-DEV&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Khaled's Top Languages" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
